@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: django-vanilla-views
+Version: 3.0.0
+Summary: Beautifully simple class based views.
+Home-page: http://django-vanilla-views.org
+Author: Tom Christie
+Author-email: tom@tomchristie.com
+License: BSD
+Project-URL: Changelog, http://django-vanilla-views.org/topics/release-notes
+Project-URL: Repository, https://github.com/tomchristie/django-vanilla-views/
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.2
+Classifier: Framework :: Django :: 3.0
+Classifier: Framework :: Django :: 3.1
+Classifier: Framework :: Django :: 3.2
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Django Vanilla Views
+
+**Beautifully simple class-based views.**
+
+Please see the documentation at [django-vanilla-views.org][docs].
+
+[docs]: http://django-vanilla-views.org
+
+
