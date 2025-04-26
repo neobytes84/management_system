@@ -1,1 +1,1 @@
-# management_system
+# Systema de manejo de eventos usando Python
