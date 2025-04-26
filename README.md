@@ -9,7 +9,7 @@ además del sistema de autenticaciónde usuarios, y muestras de gráficos relaci
 que estar familiarizado con la instalación de paqutes, creación y aplicación de migraciones, y el trabajo con el ORM de Django.
 
 * Autor: Neobytes84
-* Project_URL: https://github.com/neobytes84/diseno_patrones_python
+* Project_URL: https://github.com/neobytes84/management_system
 
 ## Lenguaje de programación
 Python
